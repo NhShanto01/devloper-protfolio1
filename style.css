@@ -30,6 +30,11 @@ h1{
     background-image: url(PNG/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(png/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .experience-area{
-    
+
 }
